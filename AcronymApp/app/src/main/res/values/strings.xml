@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcronymApp</string>
+    <string name="edittext_hint">Search for an acronym or initialism</string>
+    <string name="since">Since :</string>
+</resources>
